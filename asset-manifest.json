@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/cdbase/static/css/main.233a4a4c.css",
+    "main.js": "/cdbase/static/js/main.8dd3d545.js",
+    "static/js/453.c35e2fce.chunk.js": "/cdbase/static/js/453.c35e2fce.chunk.js",
+    "static/media/clouds.png": "/cdbase/static/media/clouds.0f5ccde0b399a7e904a2.png",
+    "static/media/ground.png": "/cdbase/static/media/ground.6aeee3520114432681b4.png",
+    "static/media/sun.png": "/cdbase/static/media/sun.e1419570823419de7d06.png",
+    "static/media/sun2.png": "/cdbase/static/media/sun2.768898a4fb1ba25228ff.png",
+    "static/media/stars.png": "/cdbase/static/media/stars.48aa813c98b30aafd550.png",
+    "static/media/logo.svg": "/cdbase/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/cdbase/index.html",
+    "main.233a4a4c.css.map": "/cdbase/static/css/main.233a4a4c.css.map",
+    "main.8dd3d545.js.map": "/cdbase/static/js/main.8dd3d545.js.map",
+    "453.c35e2fce.chunk.js.map": "/cdbase/static/js/453.c35e2fce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.233a4a4c.css",
+    "static/js/main.8dd3d545.js"
+  ]
+}
