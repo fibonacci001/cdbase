@@ -1,0 +1,126 @@
+{
+    "crypto": [
+        {
+            "id": "1",
+            "logo": "./images/1inch-Wallet.jpeg",
+            "name": "1inch Wallet"
+        },
+        {
+            "id": "2",
+            "logo": "./images/Aava.png",
+            "name": "Aava"
+        },
+        {
+            "id": "3",
+            "logo": "./images/Aktionariat.png",
+            "name": "Aktionriat"
+        },
+        {
+            "id": "4",
+            "logo": "./images/Alice.png",
+            "name": "Alice"
+        },
+        {
+            "id": "5",
+            "logo": "./images/AlphaWallet.jpeg",
+            "name": "Alpha Wallet"
+        },
+        {
+            "id": "24",
+            "logo": "./images/Argent.jpg",
+            "name": "Argent"
+        },
+        {
+            "id": "6",
+            "logo": "./images/Atomic.png",
+            "name": "Atomic"
+        },
+        {
+            "id": "7",
+            "logo": "./images/Authereum.png",
+            "name": "Authereum"
+        },
+        {
+            "id": "8",
+            "logo": "./images/Binance-Chain.png",
+            "name": "Binance Chain"
+        },
+        {
+            "id": "9",
+            "logo": "./images/Bitkeep.png",
+            "name": "Bitkeep"
+        },
+        {
+            "id": "10",
+            "logo": "./images/BitPay.jpg",
+            "name": "Bitpay"
+        },
+        {
+            "id": "11",
+            "logo": "./images/Bonkbot.jpeg",
+            "name": "Bonkbot"
+        },
+        {
+            "id": "12",
+            "logo": "./images/brd.jpg",
+            "name": "brd"
+        },
+        {
+            "id": "13",
+            "logo": "./images/Bridge-Wallet.png",
+            "name": "Bridge Wallet"
+        },
+        {
+            "id": "14",
+            "logo": "./images/Coin98.png",
+            "name": "Coin 98"
+        },
+        {
+            "id": "15",
+            "logo": "./images/Coinbase.png",
+            "name": "Coinbase"
+        },
+        {
+            "id": "16",
+            "logo": "./images/Coinmoni.png",
+            "name": "Coinmoni"
+        },
+        {
+            "id": "17",
+            "logo": "./images/CYBAVO.png",
+            "name": "CYBAVO"
+        },
+        {
+            "id": "18",
+            "logo": "./images/cosmos.png",
+            "name": "Cosmos"
+        },
+        {
+            "id": "19",
+            "logo": "./images/D'CENT.png",
+            "name": "D'cent"
+        },
+        {
+            "id": "20",
+            "logo": "./images/Dharma.png",
+            "name": "Dharma"
+        },
+        {
+            "id": "21",
+            "logo": "./images/Digitex.png",
+            "name": "Digitex"
+        },
+        {
+            "id": "22",
+            "logo": "./images/Dok-Wallet.png",
+            "name": "Dok Wallet"
+        },
+        {
+            "id": "23",
+            "logo": "./images/EasyPocket.jpg",
+            "name": "EasyPocket"
+        }
+        
+
+    ]
+}
