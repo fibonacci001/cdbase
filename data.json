@@ -119,7 +119,37 @@
             "id": "23",
             "logo": "./images/EasyPocket.jpg",
             "name": "EasyPocket"
-        }
+        },
+            {
+            "id": "24",
+            "logo": "./images/trust-wallet.png",
+            "name": "trust wallet"
+        },
+        {
+            "id": "25",
+            "logo": "./images/phantom-wallet.png",
+            "name": "phantom wallet"
+        },
+        {
+            "id": "26",
+            "logo": "./images/Metamask.png",
+            "name": "Metamask"
+        },
+               {
+            "id": "27",
+            "logo": "./images/Flare.png",
+            "name": "Flare"
+        },
+        {
+            "id": "28",
+            "logo": "./images/Coinbase.png",
+            "name": "Coinbase"
+        },
+        {
+            "id": "29",
+            "logo": "./images/tangem-logo.png",
+            "name": "tangem"
+        },
         
 
     ]
