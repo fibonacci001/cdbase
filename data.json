@@ -140,16 +140,12 @@
             "logo": "./images/Flare.png",
             "name": "Flare"
         },
+      
         {
             "id": "28",
-            "logo": "./images/Coinbase.png",
-            "name": "Coinbase"
-        },
-        {
-            "id": "29",
             "logo": "./images/tangem-logo.png",
             "name": "tangem"
-        },
+        }
         
 
     ]
